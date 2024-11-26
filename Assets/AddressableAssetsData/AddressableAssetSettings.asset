@@ -38,7 +38,7 @@ MonoBehaviour:
     m_Id: 
   m_RemoteCatalogLoadPath:
     m_Id: 
-  m_ContentStateBuildPathProfileVariableName: 
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
@@ -46,6 +46,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 1ab24ca48b1b0324a853b7dfd2e2ea79, type: 2}
   - {fileID: 11400000, guid: e63f817e44be3c447bc63fcadf6ba6ec, type: 2}
+  - {fileID: 11400000, guid: 71da47928e3369943ae347eb739cc6c3, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -66,7 +67,21 @@ MonoBehaviour:
       - m_Id: 6408b2364dd6c8e488cc852e7f696ea8
         m_Value: ServerData/[BuildTarget]
       - m_Id: 901d2bb5ec5bbe04db3619e80e38f152
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://raw.githubusercontent.com/RafaelOkabe246/AdresGrupoAtv_3/refs/heads/main/
+    - m_InheritedParent: 
+      m_Id: 458db750d102d0d43b46e2c80f38b2be
+      m_ProfileName: Custom Profile
+      m_Values:
+      - m_Id: 849e6425730219a42ba226ccc22b842d
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 3a1280523d082b34386bb2e4121a3c07
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 88ca306d132016e468017db508b4857a
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 6408b2364dd6c8e488cc852e7f696ea8
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 901d2bb5ec5bbe04db3619e80e38f152
+        m_Value: https://raw.githubusercontent.com/RafaelOkabe246/AdresGrupoAtv_3/refs/heads/main/
     m_ProfileEntryNames:
     - m_Id: 849e6425730219a42ba226ccc22b842d
       m_Name: BuildTarget
