@@ -16,7 +16,22 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: ba3850c4474dbb34f88e40a26992cdb9
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: e2c2c061f52a3894ea5c43296b130c78
+    m_Address: Assets/Prefabs/Default/Complex Shape Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91548dd3c1ac2bb48804187b9add2210
+    m_Address: Assets/Prefabs/Default/ConcaveStepsPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 085f402e925108b468acecb047f086bc
+    m_Address: Assets/Prefabs/Default/Prefab Assets Group.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c558f0e3a94cb8147836a98ef0de731c, type: 2}
   m_SchemaSet:
