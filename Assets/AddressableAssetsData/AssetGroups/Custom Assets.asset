@@ -16,7 +16,32 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 8f8fc8a2a799d254f85d41bc5d136038
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: fe8fde8efe39fae489d99170cdde67da
+    m_Address: Assets/Bulk_Container/Prefabs/BC_Box_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4825a28bc2b925349b21afdeedb7a6be
+    m_Address: Assets/Bulk_Container/Prefabs/BC_Full_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78be19a26d33bba45903db5b1eca79c8
+    m_Address: Assets/ModelPrefabs/TroncosAmarrados_A01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b57ee7d38fbe4d242898ad8d78fade1c
+    m_Address: Assets/Prefabs/Custom/Spawn Group.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bfb83aeb7dae1d4596794ae026f3c0c
+    m_Address: Assets/Prefabs/Custom/Spawn Group 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c558f0e3a94cb8147836a98ef0de731c, type: 2}
   m_SchemaSet:
